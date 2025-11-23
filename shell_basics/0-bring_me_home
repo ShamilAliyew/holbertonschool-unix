@@ -1,2 +1,5 @@
 #!/bin/bash
 cd ~
+chmod +x 0-bring_me_home
+source ./0-bring_me_home
+pwd
